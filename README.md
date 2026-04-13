@@ -26,18 +26,9 @@ A simple and interactive web application that allows users to search for any Git
 * Async/Await
 
 ---
-
-## 📸 Screenshots
-
-<!-- Add your screenshots here -->
-
-![App Screenshot](screenshot.png)
-
----
-
 ## 🔗 Live Demo
 
-👉[ https://your-live-link.com](https://github-profile-viewer-five-tau.vercel.app/)
+👉[https://github-profile-viewer-five-tau.vercel.app/]
 
 ---
 
@@ -79,8 +70,8 @@ A simple and interactive web application that allows users to search for any Git
 
 **Yuva Charan Pala**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/yuvacharan12
+* LinkedIn: https://www.linkedin.com/in/yuvacharanp/
 
 ---
 
